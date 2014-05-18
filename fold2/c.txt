@@ -1,0 +1,2 @@
+file c in fold2
+This is the change after its first staging

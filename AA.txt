@@ -1,0 +1,3 @@
+file a outside
+This is changes after the 1st commitment
+another change
